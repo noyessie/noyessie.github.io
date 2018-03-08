@@ -19,7 +19,7 @@ body{
 	background:#FFFFFF;
 }
 .banner{
-	background: url(../images/1.jpg) no-repeat 0px 0px;
+	background: url(../images/3.jpg) no-repeat 0px 0px;
     background-size: cover;
 }
 .agileinfo-dot{
@@ -369,7 +369,7 @@ body{
     margin: 4em 0 0 0;
 }
 .w3about-img {
-    background: url(../images/2.jpg)no-repeat 0px 0px;
+    background: url(../images/4.jpg)no-repeat 0px 0px;
     background-size: cover;
     min-height: 30em;
     padding: 0;
@@ -687,7 +687,7 @@ ul.simplefilter {
 /*-- //model --*/
 /*-- testimonial --*/
 .testimonial{
-	background:url(../images/1.jpg) no-repeat 0px 0px;
+	background:url(../images/3.jpg) no-repeat 0px 0px;
 	background-size:cover;
 }
 .testimonial-dot{
@@ -761,6 +761,7 @@ ul.simplefilter {
 .team-info{
     position: relative;
     overflow: hidden;	
+    max-height: 300px;
 }
 .team-info img{
 	width:100%;
@@ -843,7 +844,7 @@ ul.simplefilter {
     bottom: -105%;
     text-align: center;
     width: 100%;
-    height: 154px;
+    height: 100px;
     -webkit-transition: .5s all;
     transition: .5s all;
     -moz-transition: .5s all;
